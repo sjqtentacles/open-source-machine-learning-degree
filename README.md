@@ -2,7 +2,7 @@
 
 Learn machine learning for free, because free is better than not-free.
 
-This website is inspired by the <a href='https://github.com/datasciencemasters/go'>datasciencemasters/go</a> and <a href='https://github.com/mvillaloboz/open-source-cs-degree'>open-source-cs-degree</a> github pages. This one is specifically for machine learning, and features textbooks and textbook-length lecture notes found with a simple google search. This repository is meant as a general guide, and a resource for a free education. 
+This website is inspired by the <a href='https://github.com/datasciencemasters/go'>datasciencemasters/go</a> and <a href='https://github.com/mvillaloboz/open-source-cs-degree'>open-source-cs-degree</a> github pages. This one is specifically for machine learning, and features textbooks and textbook-length lecture notes found with a simple google search. This repository is meant as a general guide, and a resource repository for a free education. 
 
 ###Calculus
 
@@ -52,6 +52,8 @@ Computer Vision: Algorithms and Applications <a href='http://szeliski.org/Book/d
 "Introduction to Reinforcement Learning" by Sutton and Barto <a href='http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html'>html</a>
 
 ###Applied Machine Learning
+
+"Natural Language Processing with Python" by Steven Bird et al. <a href='http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf'>pdf</a>
 
 "Machine Learning in Action" by Peter Harrington <a href='http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf'>pdf</a>
 
