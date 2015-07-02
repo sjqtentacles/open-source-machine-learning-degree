@@ -66,3 +66,7 @@ Computer Vision: Algorithms and Applications <a href='http://szeliski.org/Book/d
 "Bayesian Reasoning and Machine Learning" by David Barber <a href='http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf'>pdf</a>
 
 "Pattern Recognition and Machine Learning" by Christopher M. Bishop <a href='http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf'>pdf</a>
+
+
+####Legal Stuff
+If you're the original author of any of these books, and would like me to remove the links to your material, just send me an email at programminglinguist@gmail.com
