@@ -35,7 +35,7 @@ There are <b>very</b> few free numerical linear algebra resources available onli
 
 "Introduction to Probability" by Charles M. Grinstead <a href='https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf'>pdf</a>
 
-"All of Statistics" by Larry Wasserman <a href='https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=all+of+statistics+wasserman+pdf'>pdf</a>
+"All of Statistics" by Larry Wasserman <a href='http://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf'>pdf</a>
 
 ###Introductory Machine Learning
 
@@ -66,7 +66,6 @@ Computer Vision: Algorithms and Applications <a href='http://szeliski.org/Book/d
 "Bayesian Reasoning and Machine Learning" by David Barber <a href='http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf'>pdf</a>
 
 "Pattern Recognition and Machine Learning" by Christopher M. Bishop <a href='http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf'>pdf</a>
-
 
 ####Legal Stuff
 If you're the original author of any of these books, and would like me to remove the links to your material, just send me an email at programminglinguist@gmail.com
