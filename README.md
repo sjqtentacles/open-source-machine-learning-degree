@@ -37,16 +37,28 @@ There are <b>very</b> few free numerical linear algebra resources available onli
 
 ###Introductory Machine Learning
 
-"Introduction to Statistical Learning" by Hastie et al. <a href='http://www-bcf.usc.edu/~gareth/ISL/'>pdf</a>
-
 "Introduction to Machine Learning" by Alex Smola and S.V.N. Vishwanathan <a href='http://alex.smola.org/drafts/thebook.pdf'>pdf</a>
 
 "Introduction to Machine Learning" by Ethem Alpaydin <a href='http://stp.lingfil.uu.se/~santinim/ml/2014/Alpaydin2010_IntroductionToMl_2ed.pdf'>pdf</a>
+
+###Computer Vision
+
+Computer Vision: Algorithms and Applications <a href='http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf'>pdf</a>
+
+###Reinforcement Learning 
+
+"Introduction to Reinforcement Learning" by Sutton and Barto <a href='http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html'>html</a>
+
+###Applied Machine Learning
+
+"Machine Learning in Action" by Peter Harrington <a href='http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf'>pdf</a>
+
+"Introduction to Statistical Learning" by Hastie et al. <a href='http://www-bcf.usc.edu/~gareth/ISL/'>pdf</a>
 
 ###MACHINE LEARNING - HARD MODE
 
 "Elements of Statistical Learning" by Hastie et al. <a href='http://statweb.stanford.edu/~tibs/ElemStatLearn/'>pdf</a>
 
-###Reinforcement Learning 
+"Bayesian Reasoning and Machine Learning" by David Barber <a href='http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf'>pdf</a>
 
-"Introduction to Reinforcement Learning" by Sutton and Barto <a href='http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html'>html</a>
+"Pattern Recognition and Machine Learning" by Christopher M. Bishop <a href='http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf'>pdf</a>
