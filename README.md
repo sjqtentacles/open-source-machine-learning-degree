@@ -26,14 +26,14 @@ Linear Algebra by Jim Hefferon <a href='http://joshua.smcvt.edu/linearalgebra/bo
 
 ###Even More Damn Linear Algebra
 
-"A Collection of Notes on Numerical Linear Algebra" by <a href='http://www.cs.utexas.edu/users/flame/Notes/NotesOnNLA.pdf'>pdf (optional donation to the author on his website)</a>
+"A Collection of Notes on Numerical Linear Algebra" by Robert A. van de Geijn <a href='http://www.cs.utexas.edu/users/flame/Notes/NotesOnNLA.pdf'>pdf (optional donation to the author on his website)</a>
 
 There are <b>very</b> few free numerical linear algebra resources available online.
 
 
 ###Probability and Statistics
 
-"Introduction to Probability" by Charles M. Grinstead <a href='https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf'>pdf</a>
+"Introduction to Probability" by Charles M. Grinstead and Laurie Snell<a href='https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf'>pdf</a>
 
 "All of Statistics" by Larry Wasserman <a href='http://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf'>pdf</a>
 
