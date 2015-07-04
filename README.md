@@ -59,6 +59,8 @@ Computer Vision: Algorithms and Applications <a href='http://szeliski.org/Book/d
 
 "Introduction to Statistical Learning" by Hastie et al. <a href='http://www-bcf.usc.edu/~gareth/ISL/'>pdf</a>
 
+"An Introduction to Statistical Learning with Applications in R" by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <a href="http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf">pdf</a>
+
 ###MACHINE LEARNING - HARD MODE
 
 "Elements of Statistical Learning" by Hastie et al. <a href='http://statweb.stanford.edu/~tibs/ElemStatLearn/'>pdf</a>
