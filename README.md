@@ -28,8 +28,7 @@ Linear Algebra by Jim Hefferon <a href='http://joshua.smcvt.edu/linearalgebra/bo
 
 "A Collection of Notes on Numerical Linear Algebra" by Robert A. van de Geijn <a href='http://www.cs.utexas.edu/users/flame/Notes/NotesOnNLA.pdf'>pdf (optional donation to the author on his website)</a>
 
-There are <b>very</b> few free numerical linear algebra resources available online.
-
+"Numerical Linear Algebra" by Lloyd N. Trefethen, David Bau, III <a href='https://books.google.com/books?id=bj-Lu6zjWbEC&pg=PA8&source=gbs_toc_r&cad=3#v=onepage&q&f=false'>Google Books</a>
 
 ###Probability and Statistics
 
@@ -56,8 +55,6 @@ Computer Vision: Algorithms and Applications <a href='http://szeliski.org/Book/d
 "Natural Language Processing with Python" by Steven Bird et al. <a href='http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf'>pdf (Python 2)</a> <a href="http://www.nltk.org/book/">html (Python 3 - Work in progress)</a>
 
 "Machine Learning in Action" by Peter Harrington <a href='http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf'>pdf</a>
-
-"Introduction to Statistical Learning" by Hastie et al. <a href='http://www-bcf.usc.edu/~gareth/ISL/'>pdf</a>
 
 "An Introduction to Statistical Learning with Applications in R" by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <a href="http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf">pdf</a>
 
