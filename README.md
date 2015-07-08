@@ -50,6 +50,10 @@ Computer Vision: Algorithms and Applications <a href='http://szeliski.org/Book/d
 
 "Introduction to Reinforcement Learning" by Sutton and Barto <a href='http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html'>html</a>
 
+###Probabilistic Graphical Models
+
+"Probabilistic Graphical Models: Principles and Techniques" by Koller, Friedman <a href='http://vk.com/doc168073_304660839?hash=39a33dd8aa6b141d8a&dl=b667454bc650f66cc0'>pdf</a>
+
 ###Applied Machine Learning
 
 "Natural Language Processing with Python" by Steven Bird et al. <a href='http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf'>pdf (Python 2)</a> <a href="http://www.nltk.org/book/">html (Python 3 - Work in progress)</a>
