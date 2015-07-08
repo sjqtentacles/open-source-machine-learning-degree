@@ -61,10 +61,11 @@ This website is inspired by the <a href='https://github.com/datasciencemasters/g
   * "Machine Learning in Action" by Peter Harrington <a href='http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf'>pdf</a>
   * "An Introduction to Statistical Learning with Applications in R" by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <a href="http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf">pdf</a>
 
-## MACHINE LEARNING - HARD MODE
+## Machine Learning - HARD MODE
 
   * "Elements of Statistical Learning" by Hastie et al. <a href='http://statweb.stanford.edu/~tibs/ElemStatLearn/'>pdf</a>
   * "Pattern Recognition and Machine Learning" by Christopher M. Bishop <a href='http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf'>pdf</a>
+  * "Information Theory, Inference, and Learning Algorithms" by David J. C. MacKay <a href='http://www.inference.phy.cam.ac.uk/itprnn/book.pdf'>pdf</a>
 
 #### Legal Stuff
 If you're the original author of any of these books, and would like me to remove the links to your material, just send me an email at programminglinguist@gmail.com
