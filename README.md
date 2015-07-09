@@ -57,7 +57,7 @@ This website is inspired by the <a href='https://github.com/datasciencemasters/g
 
 ## Applied Machine Learning
 
-  * **Natural Language Processing with Python** by Steven Bird et al. <a href='http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf'>pdf (Python 2)</a> <a href=**http://www.nltk.org/book/**>html (Python 3 - Work in progress)</a>
+  * **Natural Language Processing with Python** by Steven Bird et al. <a href='http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf' >pdf (Python 2)</a> <a href='http://www.nltk.org/book/'> html (Python 3)</a>
   * **Machine Learning in Action** by Peter Harrington <a href='http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf'>pdf</a>
   * **An Introduction to Statistical Learning with Applications in R** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <a href=**http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf**>pdf</a>
 
