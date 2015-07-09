@@ -42,7 +42,7 @@ This website is inspired by the <a href='https://github.com/datasciencemasters/g
 
 ## Computer Vision
 
-  * Computer Vision: Algorithms and Applications <a href='http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf'>pdf</a>
+  * **Computer Vision: Algorithms and Applications** by Richard Szeliski <a href='http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf'>pdf</a>
 
 ## Reinforcement Learning 
 
