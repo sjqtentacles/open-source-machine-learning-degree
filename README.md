@@ -38,6 +38,7 @@ This website is inspired by the <a href='https://github.com/datasciencemasters/g
 ## Introductory Machine Learning
 
   * **Introduction to Machine Learning** by Alex Smola and S.V.N. Vishwanathan <a href='http://alex.smola.org/drafts/thebook.pdf'>pdf</a>
+  * **Introduction to Machine Learning - The Wikipedia Guide** by <a href='https://github.com/Nixonite'>Nixonite</a> <a href='https://github.com/Nixonite/open-source-machine-learning-degree/raw/master/Introduction%20to%20Machine%20Learning%20-%20Wikipedia.pdf'>pdf</a>
   * **Introduction to Machine Learning** by Ethem Alpaydin <a href='http://stp.lingfil.uu.se/~santinim/ml/2014/Alpaydin2010_IntroductionToMl_2ed.pdf'>pdf</a>
 
 ## Computer Vision
