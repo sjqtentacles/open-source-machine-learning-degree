@@ -12,10 +12,6 @@ Note: Please report any broken links as an issue on the Github page. Thanks!
 
   * *Calculus* by Gilbert Strang <a href='http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf'>pdf</a>
 
-**Proofs**
-
-  * *How to Prove It* by Daniel J. Velleman <a href='https://opeconomica.files.wordpress.com/2014/08/daniel-j-velleman-how-to-prove-it.pdf'>pdf</a>
-
 **Linear Algebra**
 
   * *Linear Algebra* by Jim Hefferon <a href='http://joshua.smcvt.edu/linearalgebra/book.pdf'>pdf</a>
