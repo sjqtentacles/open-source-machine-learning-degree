@@ -14,7 +14,7 @@ Note: Please report any broken links as an issue on the Github page. Thanks!
 
 **Linear Algebra**
 
-  * *Linear Algebra* by Jim Hefferon <a href='http://joshua.smcvt.edu/linearalgebra/book.pdf'>pdf</a>
+  * *Linear Algebra* by Jim Hefferon <a href='http://joshua.smcvt.edu/linearalgebra/'>pdf</a>
 
 **More Linear Algebra**
 
