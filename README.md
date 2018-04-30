@@ -1,4 +1,4 @@
-#Open Source Machine Learning Degree
+# Open Source Machine Learning Degree
 
 Learn machine learning for free, because free is better than not-free.
 
@@ -63,7 +63,7 @@ Note: Please report any broken links as an issue on the Github page. Thanks!
 ## Machine Learning - HARD MODE
 
   * *Elements of Statistical Learning* by Hastie et al. <a href='http://statweb.stanford.edu/~tibs/ElemStatLearn/'>pdf</a>
-  * *Pattern Recognition and Machine Learning* by Christopher M. Bishop <a href='http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf'>pdf</a>
+  * *Pattern Recognition and Machine Learning* by Christopher M. Bishop <a href='http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf'>pdf</a>
   * *Information Theory, Inference, and Learning Algorithms* by David J. C. MacKay <a href='http://www.inference.phy.cam.ac.uk/itprnn/book.pdf'>pdf</a>
 
 #### Legal Stuff
