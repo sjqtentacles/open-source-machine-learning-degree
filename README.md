@@ -1,6 +1,6 @@
 # Open Source Machine Learning Degree
 
-Learn machine learning for free, because free is better than not-free.
+Learn machine learning for free.
 
 This website is inspired by the <a href='https://github.com/datasciencemasters/go'>datasciencemasters/go</a> and <a href='https://github.com/mvillaloboz/open-source-cs-degree'>open-source-cs-degree</a> github pages. This one is specifically for machine learning and features textbooks, textbook-length lecture notes, and similar materials found with a simple google search. This repository is meant as a general guide and resource for a free education. 
 
